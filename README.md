@@ -13,7 +13,8 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 you can reach me on **www.linkedin.com/in/vishal-kumar-soni-**
+- 📫 you can reach me on LinkedIn - **www.linkedin.com/in/vishal-kumar-soni-**
+- On LeetCode - https://leetcode.com/u/vishal_kumar_coder/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
