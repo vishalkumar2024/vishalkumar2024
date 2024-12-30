@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/vishal_kr_coder" target="blank"><img src="https://img.shields.io/twitter/follow/vishal_kr_coder?logo=twitter&style=for-the-badge" alt="vishal_kr_coder" /></a> </p>
 
+- Learnt languages - C, C++, Java, JavaScript
+
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Frontend Development**
