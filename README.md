@@ -15,6 +15,7 @@
 
 - 📫 you can reach me on LinkedIn - **www.linkedin.com/in/vishal-kumar-soni-**
 - On LeetCode - https://leetcode.com/u/vishal_kumar_coder/
+- on Twitter (X) - https://x.com/vishal_kr_coder
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
