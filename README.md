@@ -9,9 +9,9 @@
 
 - Learnt languages - C, C++, Java, JavaScript
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development and DSA**
 
 - 📫 you can reach me on LinkedIn - **www.linkedin.com/in/vishal-kumar-soni-**
 - On LeetCode - https://leetcode.com/u/vishal_kumar_coder/
