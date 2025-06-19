@@ -5,7 +5,6 @@
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=vishal%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Full%20Stack%20%20Developer&descAlignY=55&descAlign=50)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A54F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Enthusiast;React+Lover;Next.js+Explorer;Always+Learning+New+Tech)](https://git.io/typing-svg)
   
   <p align=""center>
     <a href="https://twitter.com/vishal_kr_coder"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
