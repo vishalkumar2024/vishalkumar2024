@@ -36,6 +36,16 @@
 
 <div align="center">
 
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%230078D7?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
+![C](https://img.shields.io/badge/c-%23E44D26?style=for-the-badge&logo=html5&logoColor=white) 
+
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FFD700?style=for-the-badge&logo=javascript&logoColor=black)
